@@ -1,0 +1,3 @@
+<iframe frameborder="0" style="width:99%;height:280px;margin-top:2px;" src="http://www.gmodules.com/ig/ifr?view=canvas&url=http://www.google.com/ig/modules/tabnews.xml&nocache=0&up_ned=&up_items=6&up_show_image=1&up_font_size=12pt&up_queryList=&up_selectedTab=0&up_tabs=&up_last_url=http://ajax.googleapis.com/ajax/services/search/news%3Fv%3D1.0%26hide%3Drelated%26key%3Dinternal-ig-tabnews%26ned%3Dhk%26topic%3Dh%26rsz%3Dlarge&up_onebox=&lang=zh-CN&country=hk&.lang=zh-CN&.country=hk&synd=ig&mid=3&ifpctok=3722975718744937961&exp_track_js=1&exp_ids=17259,300892&parent=http://www.google.com.hk">
+
+</iframe>

@@ -1,0 +1,18 @@
+<div class="subtitle">$location[city],$location[country]</div>
+<div>
+	<div style="display:block;width:150px;height:100px;float:left;text-align:center;">
+		<div class="label">现在</div>
+		<div><img border="0" src="$w_current[icon]" /></div>
+		<div class="text">$w_current[condition] ( $w_current[temp_c]<sup>o</sup>C / $w_current[temp_f]<sup>o</sup>F )</div>
+		<div class="text">$w_current[humidity] </div>
+	</div>
+	<!--{loop $forecasts $cast}-->
+	<div style="display:block;width:150px;height:100px;float:left;text-align:center;">
+		<div class="label">$cast[day]</div>
+		<div><img border="0" src="$cast[icon]" /></div>
+		<div class="text">$cast[condition]</div>
+		<div class="text">$cast[temp_low]<sup>o</sup>C - $cast[temp_high]<sup>o</sup>C</div>
+	</div>
+	<!--{/loop}-->
+	<div class="clear"></div>
+</div>

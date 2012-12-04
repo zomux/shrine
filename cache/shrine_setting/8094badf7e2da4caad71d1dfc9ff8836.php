@@ -1,0 +1,1 @@
+a:5:{i:1;a:2:{s:5:"title";s:26:"Incredible Fast(ping<30ms)";s:5:"count";i:1;}i:2;a:2:{s:5:"title";s:20:"Very Fasy(ping<80ms)";s:5:"count";i:8;}i:3;a:2:{s:5:"title";s:16:"Fast(ping<130ms)";s:5:"count";i:2;}i:4;a:2:{s:5:"title";s:18:"Normal(ping<180ms)";s:5:"count";i:0;}i:5;a:2:{s:5:"title";s:22:"A Bit Slow(ping>180ms)";s:5:"count";i:1;}}

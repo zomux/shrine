@@ -1,0 +1,10 @@
+<div class="@box">
+	<div>COSM OS工具库 &nbsp; <input type="button" value="调整工具" onclick="manager_apps();this.value= this.value=='调整工具'? '结束调整':'调整工具'" /></div>
+	<!--{loop $list_apps $app}-->
+	<div class="@app" onclick="app_load('cosm.$app[name]','$app[parent]');">
+		<div class="@icon" style="background:url($app[icon]) no-repeat;"></div>
+		<div class="@name label" >$app[name]</div>
+	</div>
+	<!--{/loop}-->
+	<div class="clear"></div>
+<div>

@@ -1,0 +1,1 @@
+._style_cosm_setting_box{width:400px;}._style_cosm_setting_btn{border:#ccc 1px solid;}._style_cosm_setting_btn:hover{border:royalblue 1px solid;}

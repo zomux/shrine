@@ -1,0 +1,7 @@
+<div>
+<div class="label">最近评论</div>
+	<!--{loop $comments $comment}-->
+		<div class="text" style="border-top:#eee 1px solid;margin-bottom:2px;">{echo str_cut(preg_replace('/<[^>]+>(.*)<\/[^>]+>/U','',$comment->comment_content) ,100) } </div>
+		<div class="label"><a href="/?p={echo $comment->comment_post_ID }">查看</a> <a href="javascript:" onclick="@delete({echo $comment->comment_ID });">删除</a> |by {echo $comment->comment_author }</div>
+	<!--{/loop}-->
+<div>

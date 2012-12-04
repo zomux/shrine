@@ -1,0 +1,1 @@
+._style_blogcd_newlist_ol{color:red;}

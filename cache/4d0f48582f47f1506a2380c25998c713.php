@@ -1,0 +1,2 @@
+<?php if(!defined('SHRINE_VERSION')) exit('Access Denied'); ?><textarea id="txt" style="display:block;height:140px;width:98%"><?php echo $txt?></textarea> 
+<input type="button" value="Save" onclick="shrine.callService(##SHRINE_HANDLE##,'save',$S('__shrine_##SHRINE_HANDLE##_txt').value);$S('__shrine_##SHRINE_HANDLE##_state').innerHTML='saved ok.';" /><span id="state"></span>

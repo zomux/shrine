@@ -1,0 +1,2 @@
+<?php if(!defined('SHRINE_VERSION')) exit('Access Denied'); ?><textarea id="txt" style="display:block;height:140px;width:98%"><?php echo $txt?></textarea> 
+<input type="button" value="Save" onclick="server.save(view.txt.value);view.state.innerHTML='saved ok.';" /><span id="state"></span>

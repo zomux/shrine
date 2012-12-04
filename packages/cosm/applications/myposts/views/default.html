@@ -1,0 +1,7 @@
+<div>
+<div class="label">最近发布博文</div>
+	<!--{loop $posts $post}-->
+		<div class="text" style="border-top:#eee 1px solid;margin-bottom:2px;">{echo str_cut($post->post_content ,100) } </div>
+		<div class="label"><a href="/?p={echo $post->ID }" target="_blank">查看</a> {echo str_cut($post->post_title ,12) } @{echo $post->post_date } |评论:{echo $post->comment_count } </div>
+	<!--{/loop}-->
+<div>

@@ -1,0 +1,10 @@
+<div class="@subtitle" style="font-size:14px;">Poll: $title_poll </div>
+<!--{loop $list_poll $id $poll}-->
+<div class="line"> 
+	<div class="title">{if $need_submit}<input name="blogcd_poll" type="radio" id="poll_$id" />{/if} $poll[title] <span style="font-size:10px;">| $poll[count]</span> </div>
+	<div class="rate" style="width:$poll[rate]%;background:rgb({echo 150-$poll['rate']},{echo 150-$poll['rate']},255);"> </div>
+</div>
+<!--{/loop}-->
+<!--{if $need_submit}-->
+<div style="text-align:center;"><input type="button"  value="submit!" onclick="@submit();"/></div>
+<!--{/if}-->

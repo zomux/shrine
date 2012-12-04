@@ -1,0 +1,1 @@
+a:9:{s:7:"country";s:5:"China";s:12:"country_code";s:2:"CN";s:11:"region_code";s:2:"32";s:4:"city";s:8:"Mianyang";s:8:"latitude";s:7:"31.4667";s:10:"longtitude";s:7:"104.767";s:8:"timezone";s:1:"8";s:9:"gmtoffset";s:1:"8";s:9:"dstoffset";s:1:"8";}

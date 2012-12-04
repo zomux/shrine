@@ -1,0 +1,1 @@
+a:9:{s:7:"country";s:5:"China";s:12:"country_code";s:2:"CN";s:11:"region_code";s:2:"08";s:4:"city";s:6:"Harbin";s:8:"latitude";s:5:"45.75";s:10:"longtitude";s:6:"126.65";s:8:"timezone";s:1:"8";s:9:"gmtoffset";s:1:"8";s:9:"dstoffset";s:1:"8";}

@@ -1,0 +1,42 @@
+[Shrine Framework Demo]
+Shrine框架演示
+[Locale]
+本地化
+[App Control]
+App控制
+[More Width]
+加宽
+[Less Width]
+减宽
+[Close Me]
+关闭
+[Opacity Switch]
+透明度切换
+[App Launch]
+运行应用
+[Dict]
+词典
+[Search]
+搜索
+[Weather]
+天气
+[Notepad]
+记事本
+[Local Service Call]
+本地服务函数调用
+[Square]
+平方
+[MD5 Encode]
+MD5编码
+
+
+
+
+
+
+
+
+
+
+
+

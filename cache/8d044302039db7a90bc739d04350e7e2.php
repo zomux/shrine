@@ -1,0 +1,1 @@
+._style_blogcd_poll_line{height:30px;width:90%;margin-top:4px;}._style_blogcd_poll_line ._style_blogcd_poll_title{color:#333;}._style_blogcd_poll_line ._style_blogcd_poll_rate{height:5px;}

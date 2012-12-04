@@ -1,0 +1,45 @@
+[Shrine Framework Demo]
+[Locale]
+語源化
+[App Control]
+Appコントロール
+[More Width]
+幅広さ増える
+[Less Width]
+幅広さ減る
+[Close Me]
+終止
+[Opacity Switch]
+透明さスイッチ
+[App Launch]
+[Dict]
+辞書
+[Search]
+検索
+[Weather]
+天気
+[Notepad]
+ノートパート
+[Local Service Call]
+[Square]
+二乗
+[MD5 Encode]
+MD5暗号化
+
+[Shrine Framework Demo]
+[App Launch]
+[Local Service Call]
+
+[Shrine Framework Demo]
+[App Launch]
+[Local Service Call]
+
+[Shrine Framework Demo]
+[App Launch]
+
+[Shrine Framework Demo]
+[App Launch]
+
+[Shrine Framework Demo]
+
+[Shrine Framework Demo]

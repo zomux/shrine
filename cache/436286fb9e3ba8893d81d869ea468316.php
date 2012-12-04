@@ -1,0 +1,1 @@
+._style_cosm_appbox_box{width:400px;}
